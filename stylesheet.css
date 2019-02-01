@@ -1,0 +1,30 @@
+body {
+    background-color: #5C246E;
+    color: greenyellow;
+    font-size: 14pt;
+    font-family: 'Baloo Thambi', cursive;
+
+}
+
+h1{
+    font-size: 250%;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 250%;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 250%;
+    font-weight: bold;
+}
+
+p{
+
+}
+
+a{
+    color: greenyellow;
+}
